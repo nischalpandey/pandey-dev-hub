@@ -4,7 +4,7 @@
 
 ### A curated, auto-updating directory of great GitHub repositories — no forks, just links.
 
-![Repositories](https://img.shields.io/badge/Repositories-1-blue?style=flat-square) ![Categories](https://img.shields.io/badge/Categories-1-informational?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--06-success?style=flat-square) ![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+![Repositories](https://img.shields.io/badge/Repositories-2-blue?style=flat-square) ![Categories](https://img.shields.io/badge/Categories-2-informational?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--06-success?style=flat-square) ![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 **No forks. No clutter. Just a clean, always-current map of great repos.**
 
@@ -17,12 +17,20 @@
 ## 📚 Categories
 
 - 🤖 [AI & Machine Learning](#ai--machine-learning) `1`
+- 🌐 [Web Development](#web-development) `1`
 
 ## 🤖 AI & Machine Learning
 
 | Repository | Description | ⭐ Stars | 🍴 Forks | Language | Updated |
 |---|---|---|---|---|---|
 | [**aishwaryanr/awesome-generative-ai-guide**](https://github.com/aishwaryanr/awesome-generative-ai-guide) | A one stop repository for generative AI research updates, interview resources, notebooks and much more! | 28,133 | 5,784 | HTML | 2026-06-24 |
+
+
+## 🌐 Web Development
+
+| Repository | Description | ⭐ Stars | 🍴 Forks | Language | Updated |
+|---|---|---|---|---|---|
+| [**yarsa/nepal-compliance**](https://github.com/yarsa/nepal-compliance) | Open source ERP for Nepal with HR, Payroll & Accounting compliance, based on ERPNext by Frappe Technologies. | 147 | 77 | Python | 2026-06-15 |
 
 ---
 

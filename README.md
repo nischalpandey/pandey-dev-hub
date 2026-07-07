@@ -4,7 +4,7 @@
 
 ### A curated, auto-updating directory of great GitHub repositories — no forks, just links.
 
-![Repositories](https://img.shields.io/badge/Repositories-2-blue?style=flat-square) ![Categories](https://img.shields.io/badge/Categories-2-informational?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--06-success?style=flat-square) ![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+![Repositories](https://img.shields.io/badge/Repositories-3-blue?style=flat-square) ![Categories](https://img.shields.io/badge/Categories-3-informational?style=flat-square) ![Last%20Updated](https://img.shields.io/badge/Last%20Updated-2026--07--07-success?style=flat-square) ![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 **No forks. No clutter. Just a clean, always-current map of great repos.**
 
@@ -18,19 +18,27 @@
 
 - 🤖 [AI & Machine Learning](#ai--machine-learning) `1`
 - 🌐 [Web Development](#web-development) `1`
+- 📦 [Other Resources](#other-resources) `1`
 
 ## 🤖 AI & Machine Learning
 
 | Repository | Description | ⭐ Stars | 🍴 Forks | Language | Updated |
 |---|---|---|---|---|---|
-| [**aishwaryanr/awesome-generative-ai-guide**](https://github.com/aishwaryanr/awesome-generative-ai-guide) | A one stop repository for generative AI research updates, interview resources, notebooks and much more! | 28,133 | 5,784 | HTML | 2026-06-24 |
+| [**aishwaryanr/awesome-generative-ai-guide**](https://github.com/aishwaryanr/awesome-generative-ai-guide) | A one stop repository for generative AI research updates, interview resources, notebooks and much more! | 28,148 | 5,784 | HTML | 2026-06-24 |
 
 
 ## 🌐 Web Development
 
 | Repository | Description | ⭐ Stars | 🍴 Forks | Language | Updated |
 |---|---|---|---|---|---|
-| [**yarsa/nepal-compliance**](https://github.com/yarsa/nepal-compliance) | Open source ERP for Nepal with HR, Payroll & Accounting compliance, based on ERPNext by Frappe Technologies. | 147 | 77 | Python | 2026-06-15 |
+| [**yarsa/nepal-compliance**](https://github.com/yarsa/nepal-compliance) | Open source ERP for Nepal with HR, Payroll & Accounting compliance, based on ERPNext by Frappe Technologies. | 147 | 76 | Python | 2026-06-15 |
+
+
+## 📦 Other Resources
+
+| Repository | Description | ⭐ Stars | 🍴 Forks | Language | Updated |
+|---|---|---|---|---|---|
+| [**speedyapply/2027-SWE-College-Jobs**](https://github.com/speedyapply/2027-SWE-College-Jobs) | 2027 SWE internship & new graduate job list updated daily | 7,945 | 385 | N/A | 2026-07-06 |
 
 ---
 
@@ -54,5 +62,5 @@ Found a great repo that's missing? Open an [Add Repository issue](../../issues/n
 ---
 
 <div align="center">
-<sub>Last generated on 2026-07-06 • Powered by GitHub Actions</sub>
+<sub>Last generated on 2026-07-07 • Powered by GitHub Actions</sub>
 </div>

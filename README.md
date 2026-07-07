@@ -24,14 +24,14 @@
 
 | Repository | Description | ⭐ Stars | 🍴 Forks | Language | Updated |
 |---|---|---|---|---|---|
-| [**aishwaryanr/awesome-generative-ai-guide**](https://github.com/aishwaryanr/awesome-generative-ai-guide) | A one stop repository for generative AI research updates, interview resources, notebooks and much more! | 28,148 | 5,784 | HTML | 2026-06-24 |
+| [**aishwaryanr/awesome-generative-ai-guide**](https://github.com/aishwaryanr/awesome-generative-ai-guide) | A one stop repository for generative AI research updates, interview resources, notebooks and much more! | 28,149 | 5,785 | HTML | 2026-06-24 |
 
 
 ## 🌐 Web Development
 
 | Repository | Description | ⭐ Stars | 🍴 Forks | Language | Updated |
 |---|---|---|---|---|---|
-| [**modelcontextprotocol/servers**](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Servers | 88,138 | 11,170 | TypeScript | 2026-07-06 |
+| [**modelcontextprotocol/servers**](https://github.com/modelcontextprotocol/servers) | Model Context Protocol Servers | 88,147 | 11,172 | TypeScript | 2026-07-06 |
 | [**yarsa/nepal-compliance**](https://github.com/yarsa/nepal-compliance) | Open source ERP for Nepal with HR, Payroll & Accounting compliance, based on ERPNext by Frappe Technologies. | 147 | 76 | Python | 2026-06-15 |
 | [**kubowania/ecommerce-chat-helper**](https://github.com/kubowania/ecommerce-chat-helper) | Building an AI-Powered E-commerce Chat Assistant with MongoDB | 76 | 36 | TypeScript | 2025-07-10 |
 
@@ -40,7 +40,7 @@
 
 | Repository | Description | ⭐ Stars | 🍴 Forks | Language | Updated |
 |---|---|---|---|---|---|
-| [**speedyapply/2027-SWE-College-Jobs**](https://github.com/speedyapply/2027-SWE-College-Jobs) | 2027 SWE internship & new graduate job list updated daily | 7,945 | 384 | N/A | 2026-07-06 |
+| [**speedyapply/2027-SWE-College-Jobs**](https://github.com/speedyapply/2027-SWE-College-Jobs) | 2027 SWE internship & new graduate job list updated daily | 7,946 | 384 | N/A | 2026-07-06 |
 | [**aslam-Hossain-YT/Camera-Surveillance-Car-using-ESP32**](https://github.com/aslam-Hossain-YT/Camera-Surveillance-Car-using-ESP32) | No description provided. | 15 | 7 | C++ | 2024-08-07 |
 
 ---
